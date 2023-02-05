@@ -1,0 +1,5 @@
+torch
+transformers
+onnxruntime
+matplotlib
+ipywidgets
